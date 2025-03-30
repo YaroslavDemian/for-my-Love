@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
+  <symbol id="icon1" viewBox="0 0 32 32">
+    <!-- ...SVG content for the first icon... -->
+    <path class="outer_bDW" d="M5,0 L27,0 C29.7614237,..."></path>
+    <path class="border_2yy" d="M5,1 C2.790861,1 1,2.790861..."></path>
+    <path class="logo_2gS" d="M23.5445333,10.2885333..."></path>
+  </symbol>
+  <symbol id="icon2" viewBox="0 0 32 32">
+    <!-- ...SVG content for the second icon... -->
+    <path class="outer_bDW" d="M5,0 L27,0 C29.7614237,..."></path>
+    <path class="border_2yy" d="M5,1 C2.790861,1 1,2.790861..."></path>
+    <path class="logo_2gS" d="M13.6383 25H16.9133..."></path>
+  </symbol>
+</svg>
